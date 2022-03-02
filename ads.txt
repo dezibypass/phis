@@ -41,3 +41,4 @@
 127.0.0.1 logservice.hicloud.com
 127.0.0.1 business.samsungusa.com
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 static.doubleclick.net
