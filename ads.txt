@@ -23,6 +23,7 @@
 127.0.0.1 ads.google.com
 127.0.0.1 adservice.google.com
 127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 www.googleadservices.com
 127.0.0.1 googleadservices.com
 127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 app.getsentry.com
